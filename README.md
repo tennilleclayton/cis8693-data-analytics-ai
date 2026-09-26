@@ -10,8 +10,13 @@ Assigment completed during my grad program.
 
 ## Features
 
-- Data Analytics
-- AI
+- Automobile_Price_Data
+- Diabetes
+- eBayAuctions
+- FlightDelays
+- GermanCredit
+- Hotel_bookings
+- Loans
 
 ### Tech Stack
 
